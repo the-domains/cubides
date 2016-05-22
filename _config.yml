@@ -1,7 +1,7 @@
 name: CUBIDES
 favicon: null
-layout_spectrum: 0.50939
-typography_spectrum: 0.3880256
+layout_spectrum: 0.49204
+typography_spectrum: 0.6233
 collections:
   - index:
       path: /
