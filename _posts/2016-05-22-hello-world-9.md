@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-datePublished: '2016-05-22T03:54:09.887Z'
-dateModified: '2016-05-22T03:51:52.671Z'
+datePublished: '2016-05-22T04:01:24.359Z'
+dateModified: '2016-05-22T04:00:59.367Z'
 title: 'HELLO WORLD #9'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-22-hello-world-9.md
 authors: []
 publisher: null
@@ -36,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9359de29-a099-41e0-a458-eb4d914d5eb4.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a4f4dae-dc19-490c-aaaf-5103469d2798.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf69ae9d-f24b-4ccd-8b42-525af9bb94a0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3266ae6-049e-48c4-83b9-b1b6ab978ec3.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3266ae6-049e-48c4-83b9-b1b6ab978ec3.jpg)
