@@ -5,9 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T05:01:38.070Z'
-dateModified: '2016-05-22T05:01:33.370Z'
-author: []
+datePublished: '2016-05-22T15:29:04.262Z'
+dateModified: '2016-05-22T05:01:49.107Z'
+author:
+  - name: ''
+    url: ''
 title: 'Hubble hello world #10'
 sourcePath: _posts/2016-05-22-hubble-hello-world-10.md
 authors: []
