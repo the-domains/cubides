@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CUBIDES]]></title>
         <description><![CDATA[CUBIDES]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cubides/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 01:20:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 01:40:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cubides/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2a6280-cdd4-416c-90b6-6a1a5e339372.jpg">]]></description>
-            <link>undefinedlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed/index.html</link>
+            <title><![CDATA[H*&!]]></title>
+            <description><![CDATA[<article><h1>H*&!</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2a6280-cdd4-416c-90b6-6a1a5e339372.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cubides/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed/index.html</link>
             <guid isPermaLink="false">20a701b8-1a82-40a2-8f8d-62cac918667a</guid>
-            <pubDate>Sun, 22 May 2016 01:20:22 GMT</pubDate>
+            <pubDate>Sun, 22 May 2016 01:40:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
