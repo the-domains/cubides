@@ -1,28 +1,40 @@
-name: CUBIDES
 favicon: null
-layout_spectrum: 0.00394
-typography_spectrum: 0.3880256
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: CUBIDES
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5322581
+  brandStrength: 0.4507824
+  rhythmicContrast: 0.5949821
   brandColors:
     - '#252326'
     - '#c3382f'
     - '#c4b4b7'
     - '#f1a360'
     - '#67433d'
-  brandStrength: 0.4507824
   lightness: 0.4910394
-  saturation: 0.5322581
-  rhythmicContrast: 0.5949821
-purpose: []
+typography_spectrum: 0.3880256
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.1332209
+analytics:
+  twitter: null
+  google: null
+  facebook: null
