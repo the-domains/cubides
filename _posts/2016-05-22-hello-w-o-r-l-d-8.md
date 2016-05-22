@@ -1,17 +1,17 @@
 ---
-description: ''
-datePublished: '2016-05-22T04:20:20.094Z'
-inNav: true
+inFeed: true
+hasPage: true
+inNav: false
 inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-22T04:59:14.559Z'
+dateModified: '2016-05-22T04:58:30.875Z'
 author: []
 sourcePath: _posts/2016-05-22-hello-w-o-r-l-d-8.md
-hasPage: true
-authors: []
 title: 'HELLO W-O-R-L-D #8b'
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-05-22T04:13:55.567Z'
-inFeed: true
 starred: false
 url: hello-w-o-r-l-d-8b/index.html
 _type: Article
