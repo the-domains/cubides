@@ -1,20 +1,20 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T05:00:20.537Z'
-dateModified: '2016-05-22T05:00:14.312Z'
+datePublished: '2016-05-22T05:00:38.097Z'
+dateModified: '2016-05-22T05:00:33.320Z'
 author: []
 title: 'Hubble hello world #10'
 sourcePath: _posts/2016-05-22-hubble-hello-world-10.md
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: hubble-hello-world-10/index.html
+_type: Article
 
 ---
 # Hubble hello world \#10
