@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T02:28:39.227Z'
-dateModified: '2016-05-22T02:28:29.300Z'
+datePublished: '2016-05-22T02:44:33.748Z'
+dateModified: '2016-05-22T02:44:33.256Z'
 title: 'HELLO W-O-R-L-D #8'
 author: []
+sourcePath: _posts/2016-05-22-hello-w-o-r-l-d-8.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-hello-w-o-r-l-d-8.md
 url: hello-w-o-r-l-d-8/index.html
 _type: WebPage
 
