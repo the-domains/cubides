@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T02:47:54.728Z'
-dateModified: '2016-05-22T02:47:44.304Z'
+datePublished: '2016-05-22T02:50:34.434Z'
+dateModified: '2016-05-22T02:50:32.506Z'
 title: 'HELLO W-O-R-L-D #8'
 author: []
 sourcePath: _posts/2016-05-22-hello-w-o-r-l-d-8.md
