@@ -1,0 +1,14 @@
+layout_spectrum: 0.5770609
+typography_spectrum: 0.3880256
+color:
+  saturation: 0.5322581
+  brandStrength: 0.4507824
+  lightness: 0.4910394
+  rhythmicContrast: 0.5949821
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: CUBIDES
