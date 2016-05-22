@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T15:44:04.447Z'
-dateModified: '2016-05-22T15:43:59.143Z'
+datePublished: '2016-05-22T15:46:19.379Z'
+dateModified: '2016-05-22T15:45:59.143Z'
 author: []
 sourcePath: _posts/2016-05-22-hello-w-o-r-l-d-8.md
 title: 'HELLO W-O-R-L-D #8b'
